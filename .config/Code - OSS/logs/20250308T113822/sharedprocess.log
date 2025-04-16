@@ -1,0 +1,7 @@
+2025-03-08 11:41:39.520 [info] Getting Manifest... sumneko.lua
+2025-03-08 11:41:40.703 [info] Installing extension: sumneko.lua {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/oz/.vscode-oss/extensions/extensions.json","path":"/home/oz/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.98.0","date":"2025-03-05T19:34:05.325Z"}}
+2025-03-08 11:41:48.563 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-08 11:41:48.564 [info] Extension signature verification is not done: sumneko.lua
+2025-03-08 11:41:56.543 [info] Extracted extension to file:///home/oz/.vscode-oss/extensions/sumneko.lua-3.13.6-linux-x64: sumneko.lua
+2025-03-08 11:41:56.912 [info] Renamed to /home/oz/.vscode-oss/extensions/sumneko.lua-3.13.6-linux-x64
+2025-03-08 11:41:57.042 [info] Extension installed successfully: sumneko.lua vscode-userdata:/home/oz/.vscode-oss/extensions/extensions.json

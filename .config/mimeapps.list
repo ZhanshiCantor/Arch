@@ -1,0 +1,4 @@
+
+[Default Applications]
+application/javascript=nvim.desktop
+image/svg+xml=feh.desktop
